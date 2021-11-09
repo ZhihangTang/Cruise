@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T08:08:10.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="MUXXwvR2MGznREyzODBo" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T08:54:16.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="WqzNAkO_xQ4n-K6ie4DD" version="15.7.0" type="github">
   <diagram id="-0BICoxLbI8U1ZFrH4pM" name="Page-1">
     <mxGraphModel dx="1718" dy="935" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -388,6 +388,76 @@
         </mxCell>
         <mxCell id="4_UkcyFho29XtShHguec-11" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1252" y="838" width="22" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-14" target="4_UkcyFho29XtShHguec-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-14" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="78.5" y="1691" width="103" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-16" target="4_UkcyFho29XtShHguec-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-16" value="管理员点击&lt;br&gt;新建群组按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1767.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-32" target="4_UkcyFho29XtShHguec-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="197" y="2016" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-19" target="4_UkcyFho29XtShHguec-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-19" value="录入需要查询的用户ID或者用户名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-20" value="结束" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="1992" width="120" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-23" target="4_UkcyFho29XtShHguec-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="441.5" y="1757" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-23" target="4_UkcyFho29XtShHguec-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-23" value="用户名或者ID是否合法" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="1676" width="205" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-25" target="4_UkcyFho29XtShHguec-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-25" value="写日志" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="381.5" y="1992" width="120" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-27" target="4_UkcyFho29XtShHguec-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-27" value="调用查询用户函数查询用户" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="381.5" y="1785" width="120" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-29" target="4_UkcyFho29XtShHguec-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-29" value="写日志" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1836" width="95" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-30" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="444" y="1735" width="22" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-31" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="549" y="1684" width="22" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-32" value="提交查询数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-34" target="4_UkcyFho29XtShHguec-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-34" value="返回查询数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="381.5" y="1895" width="120" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
