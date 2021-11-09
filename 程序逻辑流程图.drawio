@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T09:40:05.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="APxt-zFB4WiYnPtnUQwk" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T09:42:51.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="X5cJmeC0uIjJf2kXrbaA" version="15.7.0" type="github">
   <diagram id="-0BICoxLbI8U1ZFrH4pM" name="Page-1">
     <mxGraphModel dx="1718" dy="2104" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -325,7 +325,7 @@
         <mxCell id="4_UkcyFho29XtShHguec-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-19" target="4_UkcyFho29XtShHguec-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4_UkcyFho29XtShHguec-19" value="选择某种功能权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4_UkcyFho29XtShHguec-19" value="选择待增加功能权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="1478" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4_UkcyFho29XtShHguec-20" value="结束" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -339,7 +339,7 @@
         <mxCell id="4_UkcyFho29XtShHguec-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-23" target="4_UkcyFho29XtShHguec-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4_UkcyFho29XtShHguec-23" value="用户所属管理员是否具有该曲线" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4_UkcyFho29XtShHguec-23" value="用户所属管理员是否具有该权限" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="319" y="1284" width="205" height="55" as="geometry" />
         </mxCell>
         <mxCell id="4_UkcyFho29XtShHguec-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-25" target="4_UkcyFho29XtShHguec-20">
@@ -629,7 +629,7 @@
         <mxCell id="4_UkcyFho29XtShHguec-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-136" target="4_UkcyFho29XtShHguec-149">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4_UkcyFho29XtShHguec-136" value="录入需要查询的管理员ID或者管理员用户名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4_UkcyFho29XtShHguec-136" value="录入需要查询的管理员ID或者管理员名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="901" y="-273" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4_UkcyFho29XtShHguec-137" value="结束" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -643,7 +643,7 @@
         <mxCell id="4_UkcyFho29XtShHguec-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-140" target="4_UkcyFho29XtShHguec-146">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4_UkcyFho29XtShHguec-140" value="用户名或者ID是否合法" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4_UkcyFho29XtShHguec-140" value="管理员名或者ID是否合法" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1175" y="-467" width="205" height="55" as="geometry" />
         </mxCell>
         <mxCell id="4_UkcyFho29XtShHguec-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-142" target="4_UkcyFho29XtShHguec-137">
@@ -655,7 +655,7 @@
         <mxCell id="4_UkcyFho29XtShHguec-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-144" target="4_UkcyFho29XtShHguec-151">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4_UkcyFho29XtShHguec-144" value="调用查询用户函数查询用户" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4_UkcyFho29XtShHguec-144" value="调用查询用户函数查询管理员信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1217.5" y="-350" width="120" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4_UkcyFho29XtShHguec-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-146" target="4_UkcyFho29XtShHguec-137">
@@ -680,7 +680,77 @@
           <mxGeometry x="1217.5" y="-254" width="120" height="44" as="geometry" />
         </mxCell>
         <mxCell id="4_UkcyFho29XtShHguec-152" value="&lt;font style=&quot;font-size: 20px&quot;&gt;超级管理员查询用户信息&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="900.5" y="-514" width="131" height="30" as="geometry" />
+          <mxGeometry x="892" y="-563" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-154" target="4_UkcyFho29XtShHguec-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-154" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="884.5" y="1302" width="103" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-156" target="4_UkcyFho29XtShHguec-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-156" value="超管/管理员对某个用户点击删除权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="876" y="1378.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-157" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-172" target="4_UkcyFho29XtShHguec-163">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1003" y="1627" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-159" target="4_UkcyFho29XtShHguec-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-159" value="选择待删除功能权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="876" y="1481" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-160" value="结束" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1373.5" y="1603" width="120" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-163" target="4_UkcyFho29XtShHguec-167">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1247.5" y="1368" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-163" target="4_UkcyFho29XtShHguec-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-163" value="用户所属管理员是否具有该权限" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="1287" width="205" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-165" target="4_UkcyFho29XtShHguec-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-165" value="写日志" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1187.5" y="1603" width="120" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-166" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-167" target="4_UkcyFho29XtShHguec-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-167" value="调用编辑功能权限函数增加权限" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1187.5" y="1396" width="120" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-169" target="4_UkcyFho29XtShHguec-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-169" value="写日志" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1386" y="1447" width="95" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-170" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1346" width="22" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-171" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="1295" width="22" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-172" value="提交授权数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="876" y="1591" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4_UkcyFho29XtShHguec-174" target="4_UkcyFho29XtShHguec-165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_UkcyFho29XtShHguec-174" value="更新数据库&lt;br&gt;返回授权状态" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1187.5" y="1506" width="120" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
